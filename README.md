@@ -1,4 +1,3 @@
-## Google+ PHP Quickstart
+## Google+ PHP Auth
 
-The instructions for getting started are available at:
-https://developers.google.com/+/quickstart/php
+Make your web app login with Google+
